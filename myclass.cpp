@@ -9,4 +9,5 @@ MyClass::MyClass(int x_) {
 
 int MyClass::getX() { 
   return x; 
+  
 }
